@@ -36,7 +36,7 @@ Geral:
 - [x] Criar volumes para logs no docker-compose.yml.
 - [x] Arquivos de rotas para Postman (e/ou Insomnia).
 - [x] Criar arquivo(s) Markdown (usar AI).
-- [ ] Repositório no GitHub.
+- [x] Repositório no GitHub.
 - [ ] Testar instalação limpa.
 - [ ] Revisar README.
 
