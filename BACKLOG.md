@@ -37,7 +37,7 @@ Geral:
 - [x] Arquivos de rotas para Postman (e/ou Insomnia).
 - [x] Criar arquivo(s) Markdown (usar AI).
 - [x] Repositório no GitHub.
-- [ ] Testar instalação limpa.
+- [x] Testar instalação limpa.
 - [ ] Revisar README.
 
 Bugs:
