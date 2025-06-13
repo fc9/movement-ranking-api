@@ -1,6 +1,12 @@
 # Movement Ranking API
 
+[![php 8.2.28](https://img.shields.io/badge/PHP-8.2.28-blueviolet.svg)](https://shields.io/)
+[![fd](https://img.shields.io/badge/MySQL-8.0.42-blue.svg)]()
+[![Build with PHPStorm](https://img.shields.io/badge/Build_in-PHPStorm-blue.svg)](https://shields.io/)
+
 RESTful API em PHP puro para sistema de ranking de movimentos para teste técnico na **Tecnofit**.
+
+<p align="center"><a href="https://www.tecnofit.com.br/" target="_blank"><img src="https://tecnofit-site.s3.sa-east-1.amazonaws.com/media/files/2024/01/15134629/LogoAmarelo.png" width="200" alt="tecnofit.com.br"></a></p>
 
 ## Características
 
@@ -282,13 +288,6 @@ docker compose logs nginx
 # Logs do banco
 docker compose logs mysql
 ```
-
-## Contribuição
-
-1. Fork o projeto
-2. Crie uma branch para sua feature
-3. Implemente com testes
-4. Submeta um Pull Request
 
 ## Licença
 
