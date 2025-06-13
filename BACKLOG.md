@@ -51,6 +51,5 @@ Bugs:
 - [x] Ranking vazio.
 - [x] Sistema de logs (AI).
 - [x] ini.sql inconsistente no Docker.
-- [ ]
 
 
