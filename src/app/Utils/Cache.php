@@ -15,10 +15,6 @@ class Cache
         self::$cacheDir = sys_get_temp_dir() . '/movement_ranking_cache';
 
         self::ensureCacheDir();
-
-//        if (!is_dir(self::$cacheDir)) {
-//            mkdir(self::$cacheDir, 0755, true);
-//        }
     }
 
     private static function ensureCacheDir(): void

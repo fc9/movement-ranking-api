@@ -94,12 +94,6 @@ abstract class Controller
     public function handleOptions(): void
     {
         http_response_code(HttpStatus::OK);
-//        $response = [
-//            'success' => true,
-//            'message' => 'CORS preflight'
-//        ];
-//        $flags    = JSON_UNESCAPED_UNICODE | JSON_PRETTY_PRINT;
-//        echo json_encode($response, $flags);
     }
 
     /**
