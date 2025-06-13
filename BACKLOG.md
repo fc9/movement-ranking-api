@@ -38,7 +38,7 @@ Geral:
 - [x] Criar arquivo(s) Markdown (usar AI).
 - [x] Repositório no GitHub.
 - [x] Testar instalação limpa.
-- [ ] Revisar README.
+- [x] Revisar README.
 
 Bugs:
 - [x] Redirect Apache inconsistente.
