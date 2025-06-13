@@ -1,0 +1,9 @@
+.idea
+
+/docker/logs
+
+/src/.phpunit.cache
+/src/coverage
+/src/vendor
+/src/composer.lock
+/src/coverage.txt
